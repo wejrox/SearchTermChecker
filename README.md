@@ -1,2 +1,3 @@
-# wow-classic-server-checker
- Pings the server status endpoint and tells the user which servers are online
+# PC Case Gear product checker
+Checks the PC Case Gear 'New Products' page every 10 minutes and informs the user when the desired product has been 
+released. 
