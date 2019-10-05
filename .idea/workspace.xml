@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pc-case-gear-new-products-checker/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -27,7 +27,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="51">
-                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+                <caret line="3" selection-start-line="3" selection-end-line="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -70,8 +70,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="88" />
-    <option name="y" value="199" />
+    <option name="x" value="-358" />
+    <option name="y" value="175" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -84,11 +84,11 @@
         <subPane>
           <expand>
             <path>
-              <item name="wow-classic-server-checker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pc-case-gear-new-products-checker" type="b2602c69:ProjectViewProjectNode" />
               <item name="wow-classic-server-checker" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="wow-classic-server-checker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pc-case-gear-new-products-checker" type="b2602c69:ProjectViewProjectNode" />
               <item name="wow-classic-server-checker" type="462c0819:PsiDirectoryNode" />
               <item name="pc-case-gear-new-products-checker" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -130,16 +130,15 @@
       <option name="presentableId" value="Default" />
       <updated>1567066334997</updated>
       <workItem from="1567066336574" duration="5532000" />
-      <workItem from="1570276225316" duration="5248000" />
+      <workItem from="1570276225316" duration="5322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10780000" />
+    <option name="totallyTimeSpent" value="10854000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="88" y="199" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
+    <frame x="-358" y="175" width="1936" height="1056" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10748156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -178,7 +177,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="51">
-            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -189,8 +188,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pc-case-gear-new-products-checker/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
