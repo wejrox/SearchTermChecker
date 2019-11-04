@@ -1,3 +1,8 @@
-# PC Case Gear product checker
-Checks the PC Case Gear 'New Products' page every 10 minutes and informs the user when the desired product has been 
-released. 
+# Search term checker
+Hits an endpoint and scrapes the result for a term specified. Repeats periodically (minimum 1 minute intervals).
+
+## Usage
+### Template
+python app.py <search-term> <endpoint> <minutes-between-checks>  
+### Example
+python app.py Corsair https://www.pccasegear.com/category/416/new-products 1

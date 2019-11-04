@@ -1,0 +1,7 @@
+<p>Received a positive match on a term you requested.</p>
+<h3>Search term</h3>
+${SEARCH_TERM}
+<h3>Positive match time</h3>
+${TIME}
+<h3>URL searched</h3>
+${ENDPOINT}
