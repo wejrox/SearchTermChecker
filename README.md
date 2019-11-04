@@ -3,6 +3,6 @@ Hits an endpoint and scrapes the result for a term specified. Repeats periodical
 
 ## Usage
 ### Template
-python app.py <search-term> <endpoint> <minutes-between-checks>  
+python app.py [search-term] [endpoint] [minutes-between-checks]
 ### Example
 python app.py Corsair https://www.pccasegear.com/category/416/new-products 1
